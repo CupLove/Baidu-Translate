@@ -25,8 +25,8 @@ with open(outputfile_name, "w",encoding='utf8') as file:
 
 # Set your own appid/appkey.
 # 填写自己的百度appid appkey
-appid = '20231227001923498'
-appkey = '5SSB6ku8xpaAtiWElUqW'
+appid = ''
+appkey = ''
 # query = input("请输入翻译内容:")
 print("原文：\n%s"%texts)
 query = texts
